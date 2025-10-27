@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kefinidoe.github.io/Kelvin-Mwangi-portfolio/sitemap.xml
